@@ -17,7 +17,7 @@
   "dependencies": {
     "animate.css": "^3.5.2",
     "apollo-client": "^0.5.26",
-    "axios": "^0.16.0",
+    "axios": "^0.21.1",
     "bulma": "^0.4.0",
     "vee-validate": "^2.0.0-rc.5",
     "vue": "^2.3.3",
